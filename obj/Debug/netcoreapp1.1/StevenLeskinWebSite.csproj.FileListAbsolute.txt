@@ -1,0 +1,10 @@
+C:\Users\Steven\Desktop\Desktop\Tech Academy\Visual Studio\StevenLeskinWebSite\StevenLeskinWebSite\bin\Debug\netcoreapp1.1\StevenLeskinWebSite.deps.json
+C:\Users\Steven\Desktop\Desktop\Tech Academy\Visual Studio\StevenLeskinWebSite\StevenLeskinWebSite\bin\Debug\netcoreapp1.1\StevenLeskinWebSite.runtimeconfig.json
+C:\Users\Steven\Desktop\Desktop\Tech Academy\Visual Studio\StevenLeskinWebSite\StevenLeskinWebSite\bin\Debug\netcoreapp1.1\StevenLeskinWebSite.runtimeconfig.dev.json
+C:\Users\Steven\Desktop\Desktop\Tech Academy\Visual Studio\StevenLeskinWebSite\StevenLeskinWebSite\bin\Debug\netcoreapp1.1\StevenLeskinWebSite.dll
+C:\Users\Steven\Desktop\Desktop\Tech Academy\Visual Studio\StevenLeskinWebSite\StevenLeskinWebSite\bin\Debug\netcoreapp1.1\StevenLeskinWebSite.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\Visual Studio\StevenLeskinWebSite\StevenLeskinWebSite\obj\Debug\netcoreapp1.1\StevenLeskinWebSite.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\Visual Studio\StevenLeskinWebSite\StevenLeskinWebSite\obj\Debug\netcoreapp1.1\StevenLeskinWebSite.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\Visual Studio\StevenLeskinWebSite\StevenLeskinWebSite\obj\Debug\netcoreapp1.1\StevenLeskinWebSite.AssemblyInfo.cs
+C:\Users\Steven\Desktop\Desktop\Tech Academy\Visual Studio\StevenLeskinWebSite\StevenLeskinWebSite\obj\Debug\netcoreapp1.1\StevenLeskinWebSite.dll
+C:\Users\Steven\Desktop\Desktop\Tech Academy\Visual Studio\StevenLeskinWebSite\StevenLeskinWebSite\obj\Debug\netcoreapp1.1\StevenLeskinWebSite.pdb
